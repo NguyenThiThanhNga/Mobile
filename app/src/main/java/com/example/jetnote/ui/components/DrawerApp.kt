@@ -140,7 +140,7 @@ fun AppDrawer(
         Divider(color= MaterialTheme.colors.onSurface.copy(alpha=.2f))
         ScreenNavigationButton(
             icon = Icons.Filled.Home,
-            label = "I am Nhi",
+            label = "Thanh Nga",
             isSelected = currentScreen=== Screen.Notes,
             onClick = {
                 JetNotesRouter.navigateTo(Screen.Notes)
