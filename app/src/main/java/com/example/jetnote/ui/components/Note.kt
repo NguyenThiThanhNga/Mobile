@@ -45,7 +45,7 @@ fun Notes(){
         ) {
 
             Text(
-                text = "Vo Thi Nhi" ,
+                text = "Thanh Nga" ,
                 maxLines = 1,
                 color=Color.Black,
                 style = TextStyle(
